@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\bin\Debug\ProductOperationsWF.exe.config
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\bin\Debug\ProductOperationsWF.exe
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\bin\Debug\ProductOperationsWF.pdb
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\obj\Debug\ProductOperationsWF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\obj\Debug\ProductOperationsWF.CatalogForm.resources
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\obj\Debug\ProductOperationsWF.Properties.Resources.resources
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\obj\Debug\ProductOperationsWF.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\obj\Debug\ProductOperationsWF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\obj\Debug\ProductOperationsWF.exe
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\obj\Debug\ProductOperationsWF.pdb
+C:\Users\user\source\repos\ProductOperationsWF\ProductOperationsWF\obj\Debug\ProductOperationsWF.Form2.resources
